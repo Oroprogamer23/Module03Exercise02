@@ -11,6 +11,14 @@
         Spacing="20"
         Padding="30">
 
+        <!-- IMyService-->
+        <Label
+            Text="hello"
+            x:Name="MyLabel"
+            FontSize="32"
+            VerticalOptions="CenterAndExpand"
+            HorizontalOptions="Center"/>
+
         <!-- Error Message -->
         <Label 
             Text="This site can’t be reached. Your device is not connected to the internet."

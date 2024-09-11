@@ -1,4 +1,5 @@
 namespace Module0Exercise0.View;
+using Module0Exercise0.Services;
 
 public partial class OfflinePage : ContentPage
 {
